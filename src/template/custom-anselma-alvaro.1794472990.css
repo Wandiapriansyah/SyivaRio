@@ -79,9 +79,9 @@ body.anselma-alvaro.original {
     --button-background-tertiary-rgb: 169, 133, 52;
 
     /* ornament */
-    --texture-1: url("../../../katsudoto.id/media/template/custom/anselma-alvaro/assets/texture-1.png");
-    --bg-gif: url("../../../katsudoto.id/media/template/custom/anselma-alvaro/assets/bg-gif.html");
-    --cover-frame-mask: url("../../../katsudoto.id/media/template/custom/anselma-alvaro/assets/mask-cover.png");
+    --texture-1: url("../../../asset/media/template/custom/anselma-alvaro/assets/texture-1.png");
+    --bg-gif: url("../../../asset/media/template/custom/anselma-alvaro/assets/bg-gif.html");
+    --cover-frame-mask: url("../../../asset/media/template/custom/anselma-alvaro/assets/mask-cover.png");
 
 }
 
